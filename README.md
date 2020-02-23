@@ -1,3 +1,5 @@
+Orit please add logo here by uploading the logo to the repository and add the lines:
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 # Cookeat
 A search engine for cooking classes all over the world, including ratings and reviews. 
 The website is currently in beta version and based on mock data.
@@ -19,8 +21,7 @@ A step by step series of examples that tell you how to get a development env run
 * Trello - issue tracking and project management.
 ## Authors
 * Shiri Haim - Team lead. System Architect and Frontend Guild Lead at CyberArk.
-* Orit Kozolin Nachum - Frontend. Full Stack Developer at vCita.
-* Tamar Admoni - Backend. Backend Developer at Etoro.
-* Hofit Yoresh - Frontend. .NET Developer at Elad Software Systems.
+* Orit Kozolin Nachum - Frontend developement. Full Stack Developer at vCita.
+* Tamar Admoni - Backend developement. Backend Developer at Etoro.
+* Hofit Yoresh - Frontend developement. .NET Developer at Elad Software Systems.
 
-###### The smallest heading
