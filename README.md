@@ -1,8 +1,8 @@
 Orit please add logo here by uploading the logo to the repository and add the lines:
 ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 # Cookeat
-A search engine for cooking classes all over the world, including ratings and reviews. 
-The website is currently in beta version and based on mock data.
+A search engine for cooking classes all over the world, including ratings and reviews. <br/>
+The website is currently in beta version and based on mock data.<br/>
 This site is made as part of the "30 hours" program by "Baot" community, that groups experienced developrs together to study new technologies by creating a side project together.
 "Baot" community is the largest Israeli women experienced developers community.
 ## Future goals
